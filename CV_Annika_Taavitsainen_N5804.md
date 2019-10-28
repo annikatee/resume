@@ -6,7 +6,6 @@
 4. [Relevant skills](#relevant-skills)
 5. [Academic background](#academic-background)
 4. [Work experience](#work-experience)
-1. [Sää](#sää)
 
   
 ![Annika kuva](src/annika-kuva.jpg "Annika kuva")
@@ -21,11 +20,11 @@
 
 ## Personal profile
 
-Annika is a self-driven Business IT student (GPA > 4) specializing in service design and user experience. Annika has a long history of working with clients, both B2B and B2C. Annika enjoys working in teams and easily gets along with people from different backgrounds.
+Annika is a self-driven Business IT student (GPA > 4) specializing in user experience and service design. Annika has a long history of working with clients, both B2B and B2C. Annika enjoys working in teams and easily gets along with people from different backgrounds.
 
 ## Career objectives
 
-To obtain a full-time position as a service designer. Annika is also planning to continue her university studies in a Master’s Degree Program in the near future.
+To obtain a full-time position in ICT industry and to help businesses improve their customer experience. Annika is also planning to continue her university studies in a Master’s Degree Program in the near future.
 
 
 ## Relevant skills
